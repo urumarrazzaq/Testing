@@ -1,0 +1,14 @@
+
+# Added by UE GitHub Uploader
+*.ide
+*.opendb
+*.sln
+*.suo
+*.user
+*.vcxproj
+.git
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
